@@ -1,14 +1,14 @@
 {
   "name": "USDC",
   "symbol": "USDC",
-  "uri": "https://github.com/mettti1/metadata/blob/main/0.png?raw=true",
+  "uri": "https://raw.githubusercontent.com/mettti1/metadata/main/metadata.json", 
   "image": "https://github.com/mettti1/metadata/blob/main/0.png?raw=true",
   "description": "USD Coin",
   "sellerFeeBasisPoints": 500,
   "attributes": [
     {
       "trait_type": "Type",
-      "value": "Test Token"
+      "value": "Token"
     }
   ]
 }
